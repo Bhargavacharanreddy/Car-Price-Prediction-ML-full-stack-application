@@ -1,1 +1,1 @@
-# Car-Price-Prediction-full-stack-application
+# Car-Price-Prediction-ML-full-stack-application
